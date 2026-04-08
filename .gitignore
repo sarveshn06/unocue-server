@@ -8,3 +8,4 @@ src/.DS_Store
 logs/bundle_node.log
 logs/bundle_node.log
 /src/assets/speakupVideos
+.env
